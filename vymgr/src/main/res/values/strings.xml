@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VYM</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Setting</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="setting_content">in setting</string>
+    <string name="tab_statis">统计</string>
+    <string name="tab_info">信息</string>
+    <string name="tab_me">我</string>
+
+</resources>
