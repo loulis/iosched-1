@@ -31,7 +31,6 @@ public class MainActivity extends BaseActivity implements
         setContentView(R.layout.activity_main);
 
         //创建viewpager
-        FragmentManager fm = getSupportFragmentManager();
         mViewPager = (ViewPager) findViewById(R.id.pager);
         if (mViewPager != null)
         {
